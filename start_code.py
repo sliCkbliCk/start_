@@ -1,6 +1,7 @@
 f_n = 'Dan'
 l_n = 'Balicky'
 
-enter_name = input('Whats your first and last name?')
+f_n = input('Whats your first name?')
+l_n = input('Whats your last name?')
 
-print(enter_name)
+print(f_n + l_n)
